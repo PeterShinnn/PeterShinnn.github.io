@@ -90,6 +90,7 @@ body.section-show .close-btn{
 	transition:opacity .4s 1.2s ease, background .3s ease;
 	overflow:hidden;
 }
+
 .close-btn{
 	position:fixed;
 	height:64px;
@@ -1504,7 +1505,8 @@ body .symp-btn{
 	}
 }
 .portfolio-items > .item > .inner > img{
-	width:100%;
+	height: 350px;
+	width: 100%;
 }
 .portfolio-items > .item > .inner{
 	position:relative;
